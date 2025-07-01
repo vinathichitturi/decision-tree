@@ -1,17 +1,19 @@
-# decision-tree
-# Decision Tree Classifier with Iris Dataset
+# Decision Tree Classifier Project
 
-This project uses a decision tree classifier to predict iris flower species using scikit-learn.
-
-## Contents
-- Model training
-- Tree visualization
-- Accuracy and classification report
+This project builds a decision tree model using scikit-learn to predict whether a customer will buy a product based on age, income, education, marital status, and house ownership.
 
 ## Dataset
-Iris dataset from `sklearn.datasets`
+
+Uploaded from `Book1.csv`. Preprocessed by encoding categorical variables.
 
 ## Libraries Used
-- scikit-learn
-- matplotlib
+
 - pandas
+- matplotlib
+- scikit-learn
+
+## Outputs
+
+- Trained Decision Tree
+- Tree visualization
+- Accuracy and classification report
